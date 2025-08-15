@@ -1,4 +1,4 @@
-# 🍲 AI-Powered Recipe & Nutrition Recommender
+# 🍲 Recipe and Nutrition RAG with Dietary Restrictions
 
 A smart recipe recommendation system that combines dietary preferences, health conditions, and AI-powered search to suggest personalized recipes.
 

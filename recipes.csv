@@ -1,0 +1,11 @@
+name,ingredients,instructions,cuisine,calories,protein,carbs,fats,tags
+Vegan Chickpea Curry,"chickpeas, coconut milk, curry powder, onion, garlic, ginger, tomatoes","Sauté onion, garlic and ginger. Add spices and tomatoes. Add chickpeas and coconut milk. Simmer for 20 minutes.","indian",350,15,45,12,"vegan, gluten-free, dairy-free, healthy"
+Quinoa Buddha Bowl,"quinoa, sweet potato, avocado, kale, tahini dressing","Roast sweet potato. Cook quinoa. Massage kale. Assemble bowl with all ingredients and drizzle with tahini.","mediterranean",450,18,55,20,"vegan, gluten-free, high-protein, healthy"
+Vegetable Stir Fry,"tofu, bell peppers, broccoli, carrots, soy sauce, ginger, garlic","Press and cube tofu. Stir fry vegetables and tofu with soy sauce, ginger and garlic. Serve over rice.","asian",300,20,30,10,"vegan, gluten-free, dairy-free"
+Lentil Soup,"red lentils, carrots, celery, onion, vegetable broth, cumin","Sauté vegetables. Add lentils and broth. Simmer until lentils are tender. Season with cumin.","middle eastern",250,18,35,5,"vegan, gluten-free, heart-healthy"
+Fruit Smoothie Bowl,"banana, berries, almond milk, chia seeds, granola","Blend fruits with almond milk. Top with chia seeds and granola.","american",300,8,55,10,"vegan, gluten-free, breakfast"
+Vegan Tacos,"black beans, corn tortillas, avocado, lettuce, salsa","Mash black beans. Warm tortillas. Assemble tacos with beans, avocado, lettuce and salsa.","mexican",400,15,60,12,"vegan, gluten-free"
+Greek Salad,"cucumber, tomatoes, red onion, olives, olive oil, lemon juice","Chop vegetables. Mix with olives. Dress with olive oil and lemon juice.","greek",200,5,15,14,"vegetarian, gluten-free"
+Vegetable Curry,"potatoes, cauliflower, peas, curry paste, coconut milk","Sauté vegetables. Add curry paste and coconut milk. Simmer until vegetables are tender.","indian",320,12,45,15,"vegan, gluten-free"
+Mushroom Risotto,"arborio rice, mushrooms, vegetable broth, white wine, nutritional yeast","Sauté mushrooms. Toast rice. Gradually add broth and wine while stirring. Finish with nutritional yeast.","italian",380,14,60,12,"vegetarian, gluten-free"
+Vegan Chocolate Cake,"flour, sugar, cocoa powder, baking soda, apple sauce, vinegar","Mix dry ingredients. Add wet ingredients. Bake at 350°F for 30 minutes.","american",280,5,45,8,"vegan, dessert"
